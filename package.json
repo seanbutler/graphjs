@@ -1,0 +1,19 @@
+{
+  "name": "graphjs",
+  "version": "1.0.0",
+  "description": "",
+  "start": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanbutler/graphjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanbutler/graphjs/issues"
+  },
+  "homepage": "https://github.com/seanbutler/graphjs#readme"
+}
